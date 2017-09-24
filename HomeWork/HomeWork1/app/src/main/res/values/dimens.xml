@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="corners">45dp</dimen>
+    <dimen name="button">50dp</dimen>
+    <dimen name="textsize">27dp</dimen>
+    <dimen name="ovalsize">120dp</dimen>
+    <dimen name="margindefault">10dp</dimen>
+</resources>
